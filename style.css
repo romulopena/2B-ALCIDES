@@ -1,0 +1,28 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.cabecalho{
+    background-color: #0e5a0e;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.imagem-turma{
+    width: 20%;
+
+}
+
+.lista-cab{
+    
+    
+}
+
+.itens-lista-cab{
+    display: inline-block;
+    
+}
